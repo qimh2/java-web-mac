@@ -24,6 +24,9 @@ import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.params.HttpConnectionParams;
 import org.apache.http.util.EntityUtils;
 
+/**
+ * author qimh
+ */
 public class Connection {
 
 	public static final String DEFAULT_CHARSET = "UTF-8";
