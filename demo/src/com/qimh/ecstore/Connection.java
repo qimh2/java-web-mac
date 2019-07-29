@@ -26,6 +26,7 @@ import org.apache.http.util.EntityUtils;
 
 /**
  * author qimh
+ * remote-branch
  */
 public class Connection {
 
